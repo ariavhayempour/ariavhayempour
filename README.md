@@ -10,7 +10,7 @@ P.S: If you spot any project bugs, send me a message :)
 
 ### Fun Facts
 1) I like to be outdoors and play sports
-2) My favorite artist is Jean-Michel Basquiat and I find surrealist art very interesting (hence the profile picture)
+2) My favorite artist is Jean-Michel Basquiat (hence the profile picture)
 3) I enjoy cooking new recipes
 
 <!--
