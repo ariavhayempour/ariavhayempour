@@ -11,7 +11,7 @@ P.S: If you spot any project bugs, send me a message :)
 ### Fun Facts
 1) I like to be outdoors and play sports
 2) My favorite artist is Jean-Michel Basquiat (hence the profile picture)
-3) I enjoy cooking new recipes
+3) I enjoy trying new foods and cooking new recipes
 
 <!--
 **ariavhayempour/ariavhayempour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
