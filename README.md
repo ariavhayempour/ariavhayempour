@@ -4,9 +4,9 @@ I'm Ariav, a sophomore at UW-Madison double majoring in Computer and Data Scienc
 
 When I see a problem, I use code to build the solution.
 
-Favorite Project: Capital City Food Carts (It's what I'm currently working on). Check out the [repo](https://github.com/ariavhayempour/Capital_City_Food_Carts) and the [live wesbite](https://www.capitalcityfoodcarts.com)! 
+On the topic of that philosophy, I'm currently working on a project called Capital City Food Carts. Check out the [repository](https://github.com/ariavhayempour/Capital_City_Food_Carts) and the [live wesbite](https://www.capitalcityfoodcarts.com)! 
 
-P.S: If you spot any bugs, send me a message :)
+P.S: If you spot any project bugs, send me a message :)
 
 
 <!--
