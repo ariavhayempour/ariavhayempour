@@ -8,6 +8,10 @@ On the topic of that philosophy, I'm currently working on a project called Capit
 
 P.S: If you spot any project bugs, send me a message :)
 
+### Fun Facts
+1) I like to be outdoors and play sports
+2) My favorite artist is Jean-Michel Basquiat and I find surrealist art very interesting (hence the profile picture)
+3) I enjoy cooking new recipes
 
 <!--
 **ariavhayempour/ariavhayempour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
