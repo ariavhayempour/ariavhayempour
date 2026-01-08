@@ -4,15 +4,15 @@ I'm Ariav, a sophomore at UW-Madison double majoring in Computer and Data Scienc
 
 When I see a problem, I use code to build the solution.
 
-On the topic of that philosophy, I'm currently working on a project called Capital City Food Carts. Check out the [repository](https://github.com/ariavhayempour/Capital_City_Food_Carts) and the [live wesbite](https://www.capitalcityfoodcarts.com)! 
-
-P.S: If you spot any project bugs, send me a message :)
+I'm currently working on a project called Capital City Food Carts. Check out the [repository](https://github.com/ariavhayempour/Capital_City_Food_Carts) and the [live wesbite](https://www.capitalcityfoodcarts.com)! 
 
 ### Fun Facts
-1) I like to be outdoors and play sports
-2) My favorite artist is Jean-Michel Basquiat (hence the profile picture)
-3) I enjoy trying new foods and cooking new recipes
+1) I enjoy time outdoors and playing sports. 
+2) My favorite artist is Jean-Michel Basquiat (hence the profile picture). 
+3) I love trying new foods and cooking new recipes. 
 
+
+P.S: If you spot any project bugs, send me a message :)
 <!--
 **ariavhayempour/ariavhayempour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
