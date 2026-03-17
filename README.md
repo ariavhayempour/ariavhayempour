@@ -4,7 +4,7 @@ I'm Ariav, a sophomore at UW-Madison double majoring in Computer and Data Scienc
 
 When I see a problem, I use code to build the solution.
 
-I'm currently working on a project called Capital City Food Carts. Check out the [repository](https://github.com/ariavhayempour/Capital_City_Food_Carts) and the [live wesbite](https://www.capitalcityfoodcarts.com)! 
+I'm currently working on a couple projects, one being Capital City Food Carts. Check out the [repository](https://github.com/ariavhayempour/Capital_City_Food_Carts) and the [live wesbite](https://www.capitalcityfoodcarts.com)! 
 
 ### Fun Facts
 1) I enjoy time outdoors and playing sports. 
