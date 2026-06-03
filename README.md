@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ariav, a sophomore at UW-Madison double majoring in Computer and Data Science (B.S).
+I'm Ariav, a junior at UW-Madison double majoring in Computer and Data Science (B.S).
 
 When I see a problem, I use code to build the solution.
 
