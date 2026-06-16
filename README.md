@@ -7,7 +7,7 @@ When I see a problem, I use code to build the solution.
 I'm currently working on a couple projects, one being Capital City Food Carts. Check out the [repository](https://github.com/ariavhayempour/Capital_City_Food_Carts) and the [live wesbite](https://www.capitalcityfoodcarts.com)! 
 
 ### Fun Facts
-1) I enjoy time outdoors and playing sports. 
+1) I enjoy time outdoors and playing sports. One of my goals is to complete a Hyrox or Triathlon competition!  
 2) My favorite artist is Jean-Michel Basquiat (hence the profile picture). 
 3) I love trying new foods and cooking new recipes. 
 
