@@ -12,7 +12,7 @@ I'm currently working on a couple projects, one being Capital City Food Carts. C
 3) I love trying new foods and cooking new recipes. 
 
 
-P.S: If you spot any project bugs, send me a message :)
+P.S: If you're looking to collaborate, send me a message. I'm always open to new projects! :)
 <!--
 **ariavhayempour/ariavhayempour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
