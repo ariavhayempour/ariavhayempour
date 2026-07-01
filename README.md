@@ -14,8 +14,6 @@ Los Angeles, CA  ✕  Madison, WI
 
 - Currently a junior double majoring in Computer & Data Science. When I see a problem, I ~~talk about~~ **build** the solution.
 
----
-
 ### ⚙️ Building
 
 - **[Capital City Food Carts →](https://github.com/ariavhayempour/Capital_City_Food_Carts)** &nbsp;·&nbsp; a website built alongside Madison's local food-cart vendors. &nbsp;**[See it live →](https://www.capitalcityfoodcarts.com)**
@@ -24,13 +22,9 @@ Los Angeles, CA  ✕  Madison, WI
 
 - *And a special project for my fellow Badgers — coming soon… 🤫🗺️*
 
----
-
 ### 🤝 Open source contributions
 
 - **[Open Paxel →](https://github.com/ariavhayempour/open-paxel)** &nbsp;·&nbsp; an AI-native, open-source analyzer that learns and reads back your coding patterns.
-  
----
 
 ### 🧰 Toolbox
 
@@ -48,7 +42,6 @@ Los Angeles, CA  ✕  Madison, WI
 ![Docker](https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-00A651?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-0D0D0D?style=for-the-badge&logo=zsh&logoColor=FDCA40)
-
 
 ### My off-the-clock fun facts
 
