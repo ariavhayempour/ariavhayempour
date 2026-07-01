@@ -21,11 +21,10 @@ Currently a junior double majoring in Computer & Data Science. When I see a prob
 
 *And a special project for my fellow Badgers — coming soon… 🤫🗺️*
 
-
 ### 🤝 Open source contributions
 
 **[Open Paxel →](https://github.com/ariavhayempour/open-paxel)** &nbsp;·&nbsp; an AI-native, open-source analyzer that learns and reads back your coding patterns. 
-\
+
 ### 🧰 Toolbox
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white)
