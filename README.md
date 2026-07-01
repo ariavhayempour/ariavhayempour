@@ -8,7 +8,7 @@ Los Angeles, CA  ✕  Madison, WI
 
 </div>
 
---
+---
 
 ### 👤 About me
 
