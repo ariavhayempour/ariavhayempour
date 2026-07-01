@@ -22,7 +22,7 @@ When I see a problem, I ~~talk about~~ **build** the solution.
 
 **[Major Quest →](https://github.com/ariavhayempour/major_quest)** &nbsp;·&nbsp; a college-to-career choose-your-own-adventure powered by 6 live federal APIs and 92,000+ lines of real government data.
 
-*And a special project for my fellow Badgers — coming soon… 🤫*
+*And a special project for my fellow Badgers — coming soon… 🤫🗺️*
 
 ### Toolbox
 
