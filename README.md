@@ -13,7 +13,7 @@ Los Angeles, CA  ✕  Madison, WI
 
 Currently a junior double majoring in Computer & Data Science. When I see a problem, I ~~talk about~~ **build** the solution.
 
-### Currently building
+### Building ⚙️
 
 **[Capital City Food Carts →](https://github.com/ariavhayempour/Capital_City_Food_Carts)** &nbsp;·&nbsp; a website built alongside Madison's local food-cart vendors. &nbsp;**[See it live →](https://www.capitalcityfoodcarts.com)**
 
@@ -23,7 +23,7 @@ Currently a junior double majoring in Computer & Data Science. When I see a prob
 
 *And a special project for my fellow Badgers — coming soon… 🤫🗺️*
 
-### Toolbox
+### Toolbox 🧰
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E63946?style=for-the-badge&logo=javascript&logoColor=white)
