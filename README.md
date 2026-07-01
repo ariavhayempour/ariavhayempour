@@ -13,7 +13,7 @@ Los Angeles, CA  ✕  Madison, WI
 ### 👤 About me
 
 - A junior double majoring in Computer & Data Science. When I see a problem, I ~~talk about~~ **build** the solution.
-- Current Summer 2026 Software Engineering intern at JSA+Partners in Los Angeles, CA.
+- **Software Engineer** at JSA+Partners in Los Angeles, CA (internship).
 
 
 ### ⚙️ Building
