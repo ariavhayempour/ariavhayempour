@@ -9,10 +9,9 @@ Los Angeles, CA  ✕  Madison, WI
 </div>
 
 ---
+### About me
 
-Currently a junior double majoring in Computer & Data Science.
-
-When I see a problem, I ~~talk about~~ **build** the solution.
+Currently a junior double majoring in Computer & Data Science. When I see a problem, I ~~talk about~~ **build** the solution.
 
 ### Currently building
 
