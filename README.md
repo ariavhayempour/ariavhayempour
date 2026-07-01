@@ -14,7 +14,6 @@ Los Angeles, CA  ✕  Madison, WI
 
 - Currently a junior double majoring in Computer & Data Science. When I see a problem, I ~~talk about~~ **build** the solution.
 
-<br>
 
 ### ⚙️ Building
 
@@ -24,13 +23,11 @@ Los Angeles, CA  ✕  Madison, WI
 
 - *And a special project for my fellow Badgers — coming soon… 🤫🗺️*
 
-<br>
 
 ### 🤝 Open source contributions
 
 - **[Open Paxel →](https://github.com/ariavhayempour/open-paxel)** &nbsp;·&nbsp; an AI-native, open-source analyzer that learns and reads back your coding patterns.
 
-<br>
 
 ### 🧰 Toolbox
 
@@ -49,7 +46,6 @@ Los Angeles, CA  ✕  Madison, WI
 ![Bash](https://img.shields.io/badge/Bash-00A651?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-0D0D0D?style=for-the-badge&logo=zsh&logoColor=FDCA40)
 
-<br>
 
 ### My off-the-clock fun facts
 
