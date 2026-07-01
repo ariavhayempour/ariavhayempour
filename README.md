@@ -1,7 +1,5 @@
 <div align="center">
 
-👑
-
 # Ariav Hayempour
 
 **Computer Science & Data Science @ UW–Madison**
