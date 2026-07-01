@@ -41,14 +41,6 @@ When I see a problem, I ~~talk about~~ **build** the solution.
 ![Bash](https://img.shields.io/badge/Bash-00A651?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-0D0D0D?style=for-the-badge&logo=zsh&logoColor=FDCA40)
 
-### The numbers
-
-<div align="center">
-
-![Ariav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariavhayempour&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FDCA40&text_color=F5F5F0&icon_color=E63946)&nbsp;![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariavhayempour&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FDCA40&text_color=F5F5F0)
-
-</div>
-
 ### My off the clock fun facts
 
 - 🏃 Currently chasing a first triathlon finish line
@@ -59,6 +51,6 @@ When I see a problem, I ~~talk about~~ **build** the solution.
 
 <div align="center">
 
-**Open to collaborating?** &nbsp; [Say hi →](mailto:hayempour@wisc.edu) &nbsp;·&nbsp; [LinkedIn →](https://www.linkedin.com/in/ariavhayempour) &nbsp; I'm always up for a new project.
+**Open to collaborating?** &nbsp; [Email me →](mailto:hayempour@wisc.edu) &nbsp;·&nbsp; [LinkedIn →](https://www.linkedin.com/in/ariavhayempour) &nbsp; I'm always up for a new project.
 
 </div>
