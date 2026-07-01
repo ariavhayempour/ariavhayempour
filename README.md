@@ -9,7 +9,7 @@ Los Angeles, CA  ✕  Madison, WI
 </div>
 
 ---
-### About me
+### About me 👤
 
 Currently a junior double majoring in Computer & Data Science. When I see a problem, I ~~talk about~~ **build** the solution.
 
@@ -40,9 +40,9 @@ Currently a junior double majoring in Computer & Data Science. When I see a prob
 ![Bash](https://img.shields.io/badge/Bash-00A651?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-0D0D0D?style=for-the-badge&logo=zsh&logoColor=FDCA40)
 
-### My off the clock fun facts
+### My off-the-clock fun facts
 
-- 🏃 Currently chasing a first triathlon finish line
+- 🏃 Currently chasing my first triathlon finish line
 - 🎨 Basquiat is my favorite artist, hence the profile photo
 - 🍳 Always cooking something I've never made before
 
