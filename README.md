@@ -17,11 +17,13 @@ Currently a junior double majoring in Computer & Data Science. When I see a prob
 
 **[Capital City Food Carts →](https://github.com/ariavhayempour/Capital_City_Food_Carts)** &nbsp;·&nbsp; a website built alongside Madison's local food-cart vendors. &nbsp;**[See it live →](https://www.capitalcityfoodcarts.com)**
 
-**[Open Paxel →](https://github.com/ariavhayempour/open-paxel)** &nbsp;·&nbsp; an AI-native, open-source analyzer that learns and reads back your coding patterns.
-
 **[Major Quest →](https://github.com/ariavhayempour/major_quest)** &nbsp;·&nbsp; a college-to-career choose-your-own-adventure powered by 6 live federal APIs and 92,000+ lines of real government data.
 
 *And a special project for my fellow Badgers — coming soon… 🤫🗺️*
+
+### Open source contributions 🤝
+
+**[Open Paxel →](https://github.com/ariavhayempour/open-paxel)** &nbsp;·&nbsp; an AI-native, open-source analyzer that learns and reads back your coding patterns.
 
 ### Toolbox 🧰
 
