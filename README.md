@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ariav Hayempour
+# Hi, I'm Ariav 👋
 
 **Computer Science & Data Science @ UW–Madison**
 
@@ -10,7 +10,7 @@ Los Angeles, CA  ✕  Madison, WI
 
 ---
 
-Hi, I'm Ariav, a junior double majoring in Computer & Data Science.
+Currently a junior double majoring in Computer & Data Science.
 
 When I see a problem, I ~~talk about~~ **build** the solution.
 
