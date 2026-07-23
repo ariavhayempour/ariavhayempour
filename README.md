@@ -18,7 +18,7 @@ Los Angeles, CA  ✕  Madison, WI
 
 ### ⚙️ Building
 
-- **[Capital City Food Carts →](https://github.com/ariavhayempour/Capital_City_Food_Carts)** &nbsp;·&nbsp; a centralized website built for Madison's local food-cart vendors with CDN-powered delivery. &nbsp;**[See it live →](https://www.capitalcityfoodcarts.com)**
+- **[Capital City Food Carts →](https://github.com/ariavhayempour/capital_city_food_carts)** &nbsp;·&nbsp; a centralized website built for Madison's local food-cart vendors with CDN-powered delivery. &nbsp;**[See it live →](https://www.capitalcityfoodcarts.com)**
 
 - **[Major Quest →](https://github.com/ariavhayempour/major_quest)** &nbsp;·&nbsp; a college-to-career choose-your-own-adventure powered by 6 live federal APIs and 92,000+ lines of real government data.
 
