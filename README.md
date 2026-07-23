@@ -22,6 +22,9 @@ Los Angeles, CA  ✕  Madison, WI
 
 - **[Major Quest →](https://github.com/ariavhayempour/major_quest)** &nbsp;·&nbsp; a college-to-career choose-your-own-adventure powered by 6 live federal APIs and 92,000+ lines of real government data.
 
+- **[Badger Journals →](https://github.com/ariavhayempour/badger_journals)** &nbsp;·&nbsp; a student-run research journal at UW-Madison, built with Astro 5 SSR, Neon
+  serverless Postgres and Clerk Auth.
+
 - *And a special project for my fellow Badgers — coming soon… 🤫🗺️*
 
 
