@@ -12,7 +12,7 @@ Los Angeles, CA  ✕  Madison, WI
 
 ### 👤 About me
 
-- A junior double majoring in Computer & Data Science. When I see a problem, I ~~talk about~~ **build** the solution.
+- A junior double majoring in Computer & Data Science. When I see a problem, I **build** the solution.
 - Software Engineer at JSA+Partners in Los Angeles, CA (internship).
 
 
