@@ -37,6 +37,7 @@ Los Angeles, CA  ✕  Madison, WI
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E63946?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00A651?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-E63946?style=for-the-badge&logo=svelte&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-0D0D0D?style=for-the-badge&logo=svelte&logoColor=white)
