@@ -18,7 +18,7 @@ Los Angeles, CA  ✕  Madison, WI
 
 ### ⚙️ Building
 
-- **[Badger Journals →](https://github.com/ariavhayempour/badger_journals)** &nbsp;·&nbsp; a student-run research journal at UW-Madison built with Astro 5 SSR, Neon
+- **[Badger Journals →](https://github.com/ariavhayempour/badger_journals)** &nbsp;·&nbsp; a student-run research journal at UW-Madison built with Astro 7 SSR, Neon
   serverless Postgres, and Clerk Auth for admin capabilities. &nbsp;**[See it live →](https://www.badgerjournals.org)**
 
 - **[Capital City Food Carts (+250 monthly users) →](https://github.com/ariavhayempour/capital_city_food_carts)** &nbsp;·&nbsp; a centralized website built for Madison's local food-cart vendors with CDN-powered delivery. &nbsp;**[See it live →](https://www.capitalcityfoodcarts.com)**
