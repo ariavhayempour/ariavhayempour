@@ -55,8 +55,8 @@ Los Angeles, CA  ✕  Madison, WI
 ### My off-the-clock fun facts
 
 - 🏃 Currently chasing my first Ironman 70.3 finish line.
-- 🎨 Basquiat is my favorite artist, hence the profile photo.
 - 🍳 Always cooking something I've never made before.
+- 🎨 Basquiat is my favorite artist, hence the profile photo.
 
 ---
 
