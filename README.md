@@ -23,7 +23,7 @@ Los Angeles, CA  ✕  Madison, WI
 
 - **[Capital City Food Carts (+250 monthly users) →](https://github.com/ariavhayempour/capital_city_food_carts)** &nbsp;·&nbsp; a centralized website built for Madison's local food-cart vendors with CDN-powered delivery. &nbsp;**[See it live →](https://www.capitalcityfoodcarts.com)**
 
-- **[Artificial Analyst →](https://github.com/ariavhayempour/artificial_analyst)** &nbsp;·&nbsp; an AI financial analysis and stock prediction agent powered by real live and historical data.
+- **[Artificial Analyst →](https://github.com/ariavhayempour/artificial_analyst)** &nbsp;·&nbsp; an AI financial analysis and stock prediction agent powered by real data, both live and historical.
 
 
 ### 🤝 Open source contributions
