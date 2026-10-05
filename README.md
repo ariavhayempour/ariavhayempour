@@ -26,11 +26,6 @@ Los Angeles, CA  ✕  Madison, WI
 - **[Artificial Analyst →](https://github.com/ariavhayempour/artificial_analyst)** &nbsp;·&nbsp; an AI financial analysis and stock prediction agent powered by real data.
 
 
-### 🤝 Open source contributions
-
-- **[Open Paxel →](https://github.com/ariavhayempour/open-paxel)** &nbsp;·&nbsp; an AI-native, open-source analyzer that learns and reads back your coding patterns.
-
-
 ### 🧰 Toolbox
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white)
