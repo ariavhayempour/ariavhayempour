@@ -12,9 +12,9 @@ Los Angeles, CA  ✕  Madison, WI
 
 ### 👤 About me
 
-- A junior double majoring in Computer & Data Science. When I see a problem, I **build** the solution.
-- Student Software Engineer at JSA+Partners (summer 2026 internship -> fall semester return offer).
-- Artificial Intelligence Specialist at AlphaTech Counsel.
+- A junior double majoring in Computer & Data Science. When I see a problem, I **build** the solution 🛠️
+- Student Software Engineer at JSA+Partners (summer 2026 internship -> fall semester return offer) 👨‍💻
+- Artificial Intelligence Specialist at AlphaTech Counsel 🤖
 
 
 ### ⚙️ Building
