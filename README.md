@@ -2,7 +2,7 @@
 
 # Hi, I'm Ariav 👋
 
-**Computer Science & Data Science @ UW–Madison**
+**Computer Science & Data Science @ UW–Madison 🦡**
 
 Los Angeles, CA  ✕  Madison, WI
 
