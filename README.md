@@ -19,7 +19,7 @@ Los Angeles, CA  ✕  Madison, WI
 
 ### ⚙️ Building
 
-- **[Campus Subleases →](https://github.com/ariavhayempour/campus_subleases)** &nbsp;·&nbsp; a student-to-student sublease discovery platform for college campuses around the country. &nbsp;**[See it live →](https://www.campussubleases.com)**
+- **[Student Subleases →](https://github.com/ariavhayempour/student_subleases)** &nbsp;·&nbsp; a student-to-student sublease discovery platform for college campuses around the country. &nbsp;**[See it live →](https://www.campussubleases.com)**
 
 - **[Capital City Food Carts (+400 monthly users) →](https://github.com/ariavhayempour/capital_city_food_carts)** &nbsp;·&nbsp; a centralized website built for Madison's local food-cart vendors with CDN-powered delivery. &nbsp;**[See it live →](https://www.capitalcityfoodcarts.com)**
 
